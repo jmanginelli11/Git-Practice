@@ -1,0 +1,14 @@
+{
+  "name": "course-work",
+  "version": "1.0.0",
+  "description": "This is a demo for html and css",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "author": "Jackie Manginelli",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
